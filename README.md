@@ -25,7 +25,7 @@ Below are the foundational tasks required to get the Calculator app running. The
 
 ### 🟥 Todo
 * **Task 1: Set up project boilerplate**
-  * *Assignee:* @LeadDeveloper
+  * *Assignee:* @Abdulrahman alalami
   * *Description:* Initialize the core framework, install required dependencies, and configure the linter.
 * **Task 2: Design the UI layout wireframe**
   * *Assignee:* @UIDesigner
@@ -33,7 +33,7 @@ Below are the foundational tasks required to get the Calculator app running. The
 
 ### 🟨 In Progress
 * **Task 3: Implement core arithmetic logic engine**
-  * *Assignee:* @BackendDev
+  * *Assignee:* @alalami
   * *Description:* Write the functional logic handling addition, subtraction, multiplication, and division.
 * **Task 4: Build basic button components**
   * *Assignee:* @FrontendDev
@@ -41,7 +41,8 @@ Below are the foundational tasks required to get the Calculator app running. The
 
 ### 🟩 Done
 * **Task 5: Repository Setup**
-  * *Assignee:* @ProjectManager
+  * *Assignee:* @Abdulrahman
+  * 
   * *Description:* Initialize GitHub repository with a README file and configure the basic Scrum/Kanban board columns (**Todo**, **In Progress**, **Done**).
 
 ---
